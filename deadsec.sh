@@ -55,7 +55,7 @@ echo "\033[31;1mAuthor By: FirmansyahKen"
 sleep 2
 clear
 cd tool
-php telkomsel.php
+php Telkomsel.php
 fi
 
 if
